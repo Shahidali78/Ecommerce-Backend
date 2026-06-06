@@ -1,0 +1,9 @@
+.git
+.github
+.idea
+.vscode
+data
+target
+*.iml
+README.md
+postman_collection.json
